@@ -11,6 +11,25 @@ p{
     text-align: center;
     color: whitesmoke
     
+    
 } 
+
+.App{
+    
+}
+
+
+.container-two{
+    display: flex;
+    justify-content: center;
+  }
+
+ .container-three{
+     display: flex;
+     justify-content: center;
+ } 
+
+
+
 
 
