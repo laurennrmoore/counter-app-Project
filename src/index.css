@@ -14,11 +14,14 @@ p{
     
 } 
 
-.App{
-    
+.container {
+    display: flex;
+    flex-direction: column;
 }
-
-
+h4 {
+    position: relative;
+    left: 675px;
+}
 .container-two{
     display: flex;
     justify-content: center;
