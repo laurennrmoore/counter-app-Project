@@ -41,7 +41,7 @@ render() {
   return(
     <div className="App">
       <div className="container">
-        <p>Counting Time: Time is always moving along!</p>
+        <p>My First React App: Count With Me</p>
         <h4>{this.state.count}</h4>
       </div>
       <div className="container-two">
