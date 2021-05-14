@@ -7,7 +7,6 @@ import InputNum from './components/InputNum';
 import Reset from './components/Reset';
 
 
-
 class App extends Component {
   state = {
     count: 0
@@ -42,7 +41,7 @@ render() {
   return(
     <div className="App">
       <div className="container">
-        <p>Tracking Time: Time is always moving along!</p>
+        <p>Counting Time: Time is always moving along!</p>
         <h4>{this.state.count}</h4>
       </div>
       <div className="container-two">
