@@ -18,10 +18,15 @@ p{
     display: flex;
     flex-direction: column;
 }
+
+
 h4 {
     position: relative;
     left: 675px;
+    font-size: 30px;
 }
+
+
 .container-two{
     display: flex;
     justify-content: center;
