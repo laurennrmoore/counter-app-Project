@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/laurennrmoore/counter-app-Project.git/static/css/main.1c5137eb.chunk.css",
-    "main.js": "/laurennrmoore/counter-app-Project.git/static/js/main.87e1e24e.chunk.js",
-    "main.js.map": "/laurennrmoore/counter-app-Project.git/static/js/main.87e1e24e.chunk.js.map",
-    "runtime-main.js": "/laurennrmoore/counter-app-Project.git/static/js/runtime-main.8df18cdf.js",
-    "runtime-main.js.map": "/laurennrmoore/counter-app-Project.git/static/js/runtime-main.8df18cdf.js.map",
-    "static/js/2.f6d9316f.chunk.js": "/laurennrmoore/counter-app-Project.git/static/js/2.f6d9316f.chunk.js",
-    "static/js/2.f6d9316f.chunk.js.map": "/laurennrmoore/counter-app-Project.git/static/js/2.f6d9316f.chunk.js.map",
-    "index.html": "/laurennrmoore/counter-app-Project.git/index.html",
-    "static/css/main.1c5137eb.chunk.css.map": "/laurennrmoore/counter-app-Project.git/static/css/main.1c5137eb.chunk.css.map",
-    "static/js/2.f6d9316f.chunk.js.LICENSE.txt": "/laurennrmoore/counter-app-Project.git/static/js/2.f6d9316f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/laurennrmoore/counter-app-Project.git/static/media/pink and blue clock timer.87313176.jpeg"
+    "main.css": "/counter-app-Project/static/css/main.6299ef3d.chunk.css",
+    "main.js": "/counter-app-Project/static/js/main.87e1e24e.chunk.js",
+    "main.js.map": "/counter-app-Project/static/js/main.87e1e24e.chunk.js.map",
+    "runtime-main.js": "/counter-app-Project/static/js/runtime-main.742c00ae.js",
+    "runtime-main.js.map": "/counter-app-Project/static/js/runtime-main.742c00ae.js.map",
+    "static/js/2.f6d9316f.chunk.js": "/counter-app-Project/static/js/2.f6d9316f.chunk.js",
+    "static/js/2.f6d9316f.chunk.js.map": "/counter-app-Project/static/js/2.f6d9316f.chunk.js.map",
+    "index.html": "/counter-app-Project/index.html",
+    "static/css/main.6299ef3d.chunk.css.map": "/counter-app-Project/static/css/main.6299ef3d.chunk.css.map",
+    "static/js/2.f6d9316f.chunk.js.LICENSE.txt": "/counter-app-Project/static/js/2.f6d9316f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/counter-app-Project/static/media/pink and blue clock timer.87313176.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8df18cdf.js",
+    "static/js/runtime-main.742c00ae.js",
     "static/js/2.f6d9316f.chunk.js",
-    "static/css/main.1c5137eb.chunk.css",
+    "static/css/main.6299ef3d.chunk.css",
     "static/js/main.87e1e24e.chunk.js"
   ]
 }
